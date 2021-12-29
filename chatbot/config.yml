@@ -1,0 +1,15 @@
+dataset_dir: "../dataset" # name of the directory where files are stored
+train_frac: 0.85 # ratio of the conversations to be included in the train set
+model_name: "gpt2" # name of the model for tokenizer and transformer
+seed: 8459 # random seed
+lr: 0.00002 # learning rate
+warmup_ratio: 0.1 # ratio of warmup steps to the total training steps
+batch_size: 8 # batch size
+num_epochs: 10 # number of total epochs
+max_len: 100 # maximum length of input sequence
+max_history: 5 # maximum number of dialogue histories to include
+models_dir: "../models" # directory name for saved checkpoints
+stop_command: "bye" # command to stop the conversation when inferencing
+top_p: 0.9 # top p
+top_k: 50 # top k
+temperature: 0.7 # randomness of predictions
