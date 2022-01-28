@@ -7,7 +7,7 @@ GPT-2 chatbot for daily conversations trained on `Daily Dialogue`, `Empathetic D
 
 ## ⌛ Installation
 
-Download the [model](https://bit.ly/3HeCN6E) from AWS S3 storage and run the following command:
+Download the [model](https://gpt2chatbot.s3.us-east-2.amazonaws.com/model.h5) from AWS S3 storage and run the following command:
 
 ```sh
 git pull https://github.com/xcapt0/gpt2_chatbot.git
