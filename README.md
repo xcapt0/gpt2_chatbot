@@ -38,4 +38,4 @@ python chatbot.py --mode train
 ## 📝 License
 
 Copyright © 2022 [Vadim Mukhametgareev](https://github.com/xcapt0).<br />
-This project is [MIT](https://github.com/xcapt0/spotify_recommendation_system/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/xcapt0/gpt2_chatbot/blob/master/LICENSE) licensed.
