@@ -1,4 +1,4 @@
-# 🍵 GPT2 Chatbot
+# ☕ GPT2 Chatbot
 
 GPT-2 chatbot for daily conversations trained on `Daily Dialogue`, `Empathetic Dialogues`, `PERSONA-CHAT`, `Blended Skill Talk` datasets. This chatbot is made based on GPT2 Model transformer with a language modeling head on top.
 
