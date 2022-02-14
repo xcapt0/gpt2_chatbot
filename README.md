@@ -1,4 +1,4 @@
-# 🍵 GPT2 Chatbot
+# ☕ GPT2 Chatbot
 
 GPT-2 chatbot for daily conversations trained on `Daily Dialogue`, `Empathetic Dialogues`, `PERSONA-CHAT`, `Blended Skill Talk` datasets. This chatbot is made based on GPT2 Model transformer with a language modeling head on top.
 
@@ -7,7 +7,7 @@ GPT-2 chatbot for daily conversations trained on `Daily Dialogue`, `Empathetic D
 
 ## ⌛ Installation
 
-Download the [model](https://bit.ly/3HeCN6E) from AWS S3 storage and run the following command:
+Download the [model](https://gpt2chatbot.s3.us-east-2.amazonaws.com/model.h5) from AWS S3 storage and run the following command:
 
 ```sh
 git pull https://github.com/xcapt0/gpt2_chatbot.git
@@ -37,5 +37,5 @@ python chatbot.py --mode train
 
 ## 📝 License
 
-Copyright © 2022 [Vadim Mukhametgareev](https://github.com/xcapt0).<br />
-This project is [MIT](https://github.com/xcapt0/spotify_recommendation_system/blob/main/LICENSE) licensed.
+Copyright © 2022 [xcapt0](https://github.com/xcapt0).<br />
+This project is [MIT](https://github.com/xcapt0/gpt2_chatbot/blob/master/LICENSE) licensed.
